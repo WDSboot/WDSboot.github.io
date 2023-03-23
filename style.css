@@ -31,6 +31,13 @@
     color: #fff;
     text-decoration: none;
   }
+
+  .onderste-header-links {
+    display: flex;
+    flex-direction: row;
+    text-indent: 10px;
+  }
+  
   
   .orange {
     color: #FF6900;
