@@ -4,16 +4,19 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
+    font-weight: bold;
   }
   
   .bovenste-header a {
     color: #333;
     text-decoration: none;
+    font-weight: bold;
   }
   
   .bovenste-header-midden {
     font-weight: bold;
     font-size: 14px;
+    font-weight: bold;
   }
   
   .onderste-header {
@@ -30,7 +33,6 @@
   }
   
   .orange {
-    font-weight: bold;
     color: #FF6900;
   }
   
