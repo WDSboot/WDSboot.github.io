@@ -27,15 +27,21 @@
 .onderste-header-links {
   display: flex;
   flex-direction: row;
-  text-indent: 18px;
+}
+
+.onderste-header-links div {
+    margin-right: 20px;
 }
 
 .onderste-header-rechts {
   display: flex;
   flex-direction: row;
-  text-indent: 10px;
   font-size: 14px;
 }
+
+.onderste-header-rechts img {
+    margin-left: 20px;
+  }
 
 .orange {
   color: #ff6900;
