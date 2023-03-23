@@ -1,0 +1,32 @@
+  .bovenste-header {
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+  
+  .bovenste-header a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .bovenste-header-midden {
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  .onderste-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid lightgrey;
+  }
+  
+  .onderste-header a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  
