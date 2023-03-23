@@ -195,5 +195,26 @@ h1 {
     font-size: 56px;
 }
 
+#foot {
+    margin-left: 75px;
+}
 
-
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: auto;
+    background-color: black;
+    color: #fff;
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px 5px;
+    left: 28%;
+    top: 80%;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
