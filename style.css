@@ -181,10 +181,19 @@ h1 {
 }
 
 #money {
-    margin-left: 100px;
+    margin-left: 75px;
     margin-top: 12px;
 }
 
+.tegoed {
+    position: absolute;
+    height: 30%;
+    left: 28%;
+    top: 15%;
+    font-family: 'Helvetica, sans-serif';
+    font-weight: 400;
+    font-size: 56px;
+}
 
 
 
