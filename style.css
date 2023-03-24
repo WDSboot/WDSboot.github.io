@@ -139,7 +139,6 @@ h1 {
     margin-left: 180px;
 }
 
-/* * */
 .rechtertitel1 {
     position: absolute;
     height: 30%;
@@ -209,8 +208,6 @@ h1 {
     padding: 5px 5px;
     left: 28%;
     top: 80%;
-  
-    /* Position the tooltip */
     position: absolute;
     z-index: 1;
   }
