@@ -86,7 +86,7 @@ a.button.active {
 }
 
 .button:hover{
-    background-color: rgb(101,115,139);
+    background-color: rgb(75,104,79);
 }
 div.starbox {
     display: flex;
