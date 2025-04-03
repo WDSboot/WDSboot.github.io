@@ -65,7 +65,7 @@ a.button {
     color: #000;
     font-family: 'HoneySalt';
     border-bottom: none;
-    width: 30%;
+    width: 70px;
 }
 a.button.active {
     background-color: rgb(165,224, 173);
