@@ -65,10 +65,10 @@ a.button {
     color: #000;
     font-family: 'HoneySalt';
     border-bottom: none;
-    width: 70px;
+    width: 100%;
 }
 a.button.active {
-    background-color: rgb(165,224, 173);
+    background-color: rgb(75,104,79);
 }
 .buttoncontainer {
     width: 55%;
@@ -86,7 +86,7 @@ a.button.active {
 }
 
 .button:hover{
-    background-color: rgb(75,104,79);
+    background-color: rgb(101,115,139);
 }
 div.starbox {
     display: flex;
