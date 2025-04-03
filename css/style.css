@@ -42,7 +42,7 @@ p {
     color: #000;
     text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -65,7 +65,7 @@ a.button {
     color: #000;
     font-family: 'HoneySalt';
     border-bottom: none;
-    width: fit-content;
+    width: 30%;
 }
 a.button.active {
     background-color: rgb(165,224, 173);
