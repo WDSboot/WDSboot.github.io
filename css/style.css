@@ -31,6 +31,7 @@ h1 {
     text-align: left;
     font-size: 20pt;
     text-align: center;
+    border-bottom: 2px dashed rgb(101,115,139); 
 }
 h2 {
     font-family: 'HoneySalt';
@@ -69,6 +70,7 @@ a.button {
 }
 a.button.active {
     background-color: rgb(75,104,79);
+    color: rgb(239,241,239);
 }
 .buttoncontainer {
     width: 55%;
@@ -106,8 +108,23 @@ img.star {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    align-items:center;
+    align-self: center;
+    justify-content: center;
 }
 
 .skill.alternate {
     background-color: rgb(236,224,234);
+}
+
+.h1.skilltitle {
+        border-bottom: 2px dashed rgb(101,115,139); 
+}
+
+.linkedinbox {
+    padding-top: 20px;
+    display: flex;
+    width: 80%;
+    height: 80%;
+    justify-content: center;
 }
